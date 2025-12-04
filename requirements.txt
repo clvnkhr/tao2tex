@@ -1,4 +1,4 @@
 beautifulsoup4==4.11.1
 emoji==2.2.0
 lxml==4.9.1
-requests==2.32.2
+requests==2.32.4
